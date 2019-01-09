@@ -56,7 +56,7 @@ Or install it yourself as:
 ## Usage
 
 Usage is similar to how you would use TensorFlow except with ruby syntax.
-There are also enhancements to the syntax to make it as consice as possible.
+There are also enhancements to the syntax to make it as concise as possible.
 
 Linear regression sample:
 
